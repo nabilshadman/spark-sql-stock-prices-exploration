@@ -1,7 +1,7 @@
 # spark-sql-stock-prices-exploration
 An exploration of stock prices of Amazon, Google, and Tesla using Spark SQL  
   
-Tasks accomplished  
+Tasks accomplished:  
 (a) Initialized a Spark application and interacted with SparkContext  
 (b) Created and used Spark RDD (Resilient Distributed Dataset)  
 (c) Created and used Spark DataFrame  
